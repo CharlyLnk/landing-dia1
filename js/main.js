@@ -1,4 +1,4 @@
-const header = document.querySelector('.header');
+const header = document.querySelector('header');
 const toTopBtn = document.createElement('button');
 
 // Crear botón "Ir arriba"
